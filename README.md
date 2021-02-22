@@ -24,6 +24,8 @@ Thanks to the Nansen Center for the OpenWind repository and the the Royal Nether
 
 Verhoef, A., M. Portabella, A. Stoffelen and H. Hersbach, CMOD5.n - the CMOD5 GMF for neutral winds Document external project: 2008, SAF/OSI/CDOP/KNMI/TEC/TN/165, EUMETSAT, 2008.
 
+Corcione, V., Grieco, G., Portabella, M., Nunziata, F., Migliaccio, M.; A novel azimuth cutoff implementation to retrieve sea surface wind speed from SAR imagery; IEEE Transactions on geoscience and remote sensing, 57; 2019.
+
 Valenzuela, G.R.; Theories for the interaction of electromagnetic and oceanic waves - A review; J. of Boundary-Layer Meteorology, 13; 1977.
 
 Koch, W.; Directional analysis of SAR images aiming at wind direction; IEEE Transactions on geosciences and remote sensing, 42; 2004.
