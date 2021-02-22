@@ -137,6 +137,13 @@ class WIND(NetCDFManager):
         !              CMOD5_N NORMALIZED BACKSCATTER (LINEAR)
         !
         !        All inputs must be Numpy arrays of equal sizes
+        !
+        !     A. STOFFELEN              MAY  1991 ECMWF  CMOD4
+        !     A. STOFFELEN, S. DE HAAN  DEC  2001 KNMI   CMOD5 PROTOTYPE
+        !     H. HERSBACH               JUNE 2002 ECMWF  COMPLETE REVISION
+        !     J. de Kloe                JULI 2003 KNMI,  rewritten in fortan90
+        !     A. Verhoef                JAN  2008 KNMI,  CMOD5 for neutral winds
+        !     K.F.Dagestad              OCT 2011 NERSC,  Vectorized Python version
         !---------------------------------------------------------------------
            '''
         # Ignore overflow errors for wind calculations over land
