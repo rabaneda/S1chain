@@ -23,11 +23,19 @@ Thanks to the Nansen Center for the OpenWind repository and the the Royal Nether
 # References
 
 Verhoef, A., M. Portabella, A. Stoffelen and H. Hersbach, CMOD5.n - the CMOD5 GMF for neutral winds Document external project: 2008, SAF/OSI/CDOP/KNMI/TEC/TN/165, EUMETSAT, 2008.
+
 Valenzuela, G.R.; Theories for the interaction of electromagnetic and oceanic waves - A review; J. of Boundary-Layer Meteorology, 13; 1977.
+
 Koch, W.; Directional analysis of SAR images aiming at wind direction; IEEE Transactions on geosciences and remote sensing, 42; 2004.
+
 Rana, F.M., Adamo, M., Pasquariello, G., De Carolis, G., Morelli, S.; LG-Mod: A modified local gradient (LG) method to retrieve SAR sea surface wind directions in marine coastal areas; J. of Sensors; 2016.
+
 Rana, F.M., Adamo, M., Lucas, R., Blonda, P.; Sea sirface wind retrieval in coastal areas by means of Sentinel-1 and numerical weather prediction model data; J. of Remote Sensing of Environmnet, 225; 2019.
+
 Shao, W., Zhang, Z., Li, X., Li, H.; Ocean wave parameters retrieval from Sentinel-1 SAR imagery; J. of Remote Sensing, 8; 2016.
+
 Shao, W., Hu, Y., Yang, J., Nunziata, F., Sun, J., Li, H., Zuo, J.; An empirical algorithm to retrieve significant wave height from Sentinel-1 Synthetic Aperture Radar Imagery Collected under Cyclonic Conditions; J. of Remote Sensing, 10, 2018.
+
 Greidnaus, H., Alvarez, M., Santamaria, C., Thoorens, F.X., Kuorti, N., Argentieri, P.; The SUMO ship detector algorithm for satellite radar images; J. of Remote Sensing, 9; 2017.
+
 Santamaria, C., Alvarez, M., Greidanus, H., Syrris, V., Soille, P., Argentieri, P.; Mass processing of Sentinel-1 images for maritime surveillance; J. of Remote Sensing, 9; 2017.
