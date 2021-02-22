@@ -1,0 +1,5 @@
+Instructions to execute the S1 chain:
+
+There is only one script to run: "options.py". The rest of scripts will be called later on automatically.
+
+There are some compulsory and optional variables. Please open the script for further instructions.Modify these variables before running the script.
