@@ -18,7 +18,7 @@ There are some compulsory and optional variables. Please open the script for fur
 
 This processing chain was developed at the University of Hull (UK) with funding from the DCS4COP project (http://dcs4cop.eu/).
 
-Thanks to the Nansen Center for the OpenWind repository and the the Royal Netherlands Meteorological Institute (KNMI) for CMOD5 and CMOD7 software.
+Thanks to the Nansen Center for the OpenWind repository and the Royal Netherlands Meteorological Institute (KNMI) for the CMOD5 and CMOD7 software.
 
 # References
 
