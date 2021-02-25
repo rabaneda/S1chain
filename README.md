@@ -1,8 +1,8 @@
 # S1chain
-Processing chain for Sentinel-1 images in order to retrieve wind and wave parameters, and for object detection.
+Processing chain for Sentinel-1 images (GRD, VV-polarization) in order to retrieve wind and wave parameters, and for object detection.
 
 # Prerequisites
-Sentinel-1 Toolbox (S1TBX) or SNAP by the European Space Agency (ESA) must be installed on your local computer for preprocessing porpuses.
+Sentinel-1 Toolbox (S1TBX) or SNAP by the European Space Agency (ESA) must be installed on your local computer for preprocessing purposes.
 https://step.esa.int/main/
 https://github.com/senbox-org
 
